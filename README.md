@@ -1,4 +1,4 @@
-# PSPing - Ping Data Exfiltration using Powershell
+# PPing - Ping Data Exfiltration using Powershell
 
 This project demonstrates a novel way to transmit data using ICMP packets by encoding and decoding data with ping packet sizes using PowerShell. This tool does not require administrative access to machines which allow Powershell and ping. It includes two main components: an encoder script (psping.ps1) for sending data and a decoder script (decode.ps1) for receiving and decoding it.
 
